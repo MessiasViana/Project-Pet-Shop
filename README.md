@@ -1,2 +1,11 @@
 # B7web-Project-C
-complete b7web classes project pet shop
+Projeto da b7Web canil finalizado
+
+### Pré requisitos globais:
+`npm i -g nodemon typescript ts-node`
+
+### Instalação
+`npm install`
+
+### Para rodar o projeto
+`npm run start-dev`
